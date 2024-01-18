@@ -22,6 +22,7 @@ Deploy the project to the cloud:
 
 ```
 cdk synth
+cdk bootstrap
 cdk deploy
 ```
 
